@@ -53,6 +53,12 @@ enableEmoji = true
   weight = 10
 
 [[menu.main]]
+  identifier = "newsletters"
+  name = "AI Newsletters"
+  url = "/newsletters/"
+  weight = 15
+
+[[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
