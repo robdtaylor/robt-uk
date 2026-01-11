@@ -1,5 +1,5 @@
 ---
-title: "AI Daily Briefing: The latest on Grok's gross AI deepfakes problem"
+title: "AI Daily Briefing: Daily AI Roundup"
 date: 2026-01-11
 draft: false
 description: "Your daily digest of AI news, research breakthroughs, and industry updates for Sunday, January 11, 2026"
@@ -10,53 +10,37 @@ tags: ["AI", "Machine Learning", "Newsletter", "Daily Briefing"]
 
 ## TL;DR
 
-Today's briefing covers **20 items** from 13 sources. Top stories include: The latest on Grok's gross AI deepfakes problem; The best tech announced at CES 2026 so far.
-
-## Top Stories
-
-### [The latest on Grok's gross AI deepfakes problem](https://www.theverge.com/news/859715/x-grok-ai-deepfakes)
-*The Verge AI*
-
-The launch of an AI image editing feature on xAI's Grok has caused chaos on X after it was used to generate a flood of nonconsensual sexualized deepfakes. As Hayden Field wrote, “screenshots show Grok complying with requests to put real women in lingerie and make them spread their legs, and to put s
-
-### [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
-*The Verge AI*
-
-The CES show floor officially closes its doors at the end of the day, but there's still a trickle of announcements and reveals coming out of Las Vegas. If you're struggling to stay on top of all the new tech, gadgets, concepts, and AI-powered devices as the final day of CES gets underway, we're stil
-
-## Industry Updates
-
-- **[OpenAI and SoftBank Group partner with SB Energy](https://openai.com/index/stargate-sb-energy-partnership)** - OpenAI
+Today's briefing covers **9 items** from 13 sources. 
 
 ## News & Analysis
 
-- [OpenAI is reportedly asking contractors to upload real work from past jobs](https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/) *(TechCrunch AI)*
-- [Indonesia blocks Grok over non-consensual, sexualized deepfakes](https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/) *(TechCrunch AI)*
-- [OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents](https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/) *(Wired AI)*
-- [Grok Is Being Used to Mock and Strip Women in Hijabs and Saris](https://www.wired.com/story/grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-sarees/) *(Wired AI)*
-- [AI is coming for collectibles next](https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026) *(The Verge AI)*
-- [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/) *(TechCrunch AI)*
-- [How the Sleepbuds maker, Ozlo, is building a platform for sleep data](https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/) *(TechCrunch AI)*
-- [Meta expands nuclear power ambitions to include Bill Gates' startup](https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers) *(The Verge AI)*
+- [CES 2026 was all about 'physical AI' and robots, robots, robots](https://techcrunch.com/podcast/ces-2026-was-all-about-physical-ai-and-robots-robots-robots/) *(TechCrunch AI)*
+- [CES 2026: Follow live for the best, weirdest, most interesting tech as this robot and AI-heavy event wraps up](https://techcrunch.com/storyline/ces-2026-follow-live-for-the-best-weirdest-most-interesting-tech-as-this-robot-and-ai-heavy-event-wraps/) *(TechCrunch AI)*
+- [Meta signs deals with three nuclear companies for 6-plus GW of power](https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/) *(TechCrunch AI)*
+- [Baldur's Gate 3 studio says it won't use AI for concept art or writing](https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama) *(The Verge AI)*
+- [Democrats ask Apple and Google to remove X’s undressing bot from their app stores](https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store) *(The Verge AI)*
+- [X Didn’t Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/) *(Wired AI)*
+- [X restricts Grok's image generation to paying subscribers only after drawing the world's ire](https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/) *(TechCrunch AI)*
+- [No, Grok hasn't paywalled its deepfake image feature](https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting) *(The Verge AI)*
 
 ## Deep Dive: Today's AI Landscape
 
 *Synthesized from multiple research sources*
 
-Here are the most notable **AI-related announcements and breakthroughs reported in the last few days around January 10–11, 2026**, with a focus on launches and concrete technical advances:
+Here are notable **AI-related announcements and breakthroughs reported around January 11, 2026**:
 
-**1. Major AI systems and platform launches**
-
-- **Google DeepMind – AlphaAgent (smart-city integration)**
+- **Tech Pulse Weekly Digest (Jan 11, 2026)** highlights several major moves:[1]  
+  - **Google DeepMind AlphaAgent**: a **multimodal agent** integrated with smart city infrastructure for **real-time traffic optimization**, with pilot deployments reporting about **30% reduction in congestion**.[1]  
+  - **OpenAI o1‑mini variants for education**: smaller models tailored to **personalized tutoring**, adapting to individual learning styles.[1]  
 
 **Sources:**
 - [future.forem.com](https://future.forem.com/om_shree_0709/tech-pulse-weekly-tech-digestjanuary-11-2026-3bac)
+- [amiko.consulting](https://amiko.consulting/en/the-january-2026-ai-revolution-7-key-trends-changing-the-future-of-manufacturing/)
 - [crescendo.ai](https://www.crescendo.ai/news/latest-ai-news-and-updates)
-- [youtube.com](https://www.youtube.com/watch?v=_y6GP23mK7A)
-- [pharmavoice.com](https://www.pharmavoice.com/news/pharma-crystal-ball-2026-predictions-ai-drug-rd-development/809144/)
+- [ibm.com](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026)
 - [radical.vc](https://radical.vc/10-ai-predictions-for-2026/)
 
-📋 **SUMMARY:** Major AI announcements this week centered on NVIDIA's Rubin platform at CES 2026 and continued industry shift toward agentic AI.
+📋 **SUMMARY:** Major AI hardware and model announcements dominating early January 2026.
 
 🔍 **KEY FINDINGS:**
 
