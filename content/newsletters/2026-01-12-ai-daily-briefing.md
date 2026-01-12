@@ -1,0 +1,79 @@
+---
+title: "AI Daily Briefing: Motional puts AI at center of robotaxi reboot as i..."
+date: 2026-01-12
+draft: false
+description: "Your daily digest of AI news, research breakthroughs, and industry updates for Monday, January 12, 2026"
+tags: ["AI", "Machine Learning", "Newsletter", "Daily Briefing"]
+---
+
+*Monday, January 12, 2026*
+
+## TL;DR
+
+Today's briefing covers **344 items** from 13 sources. Top stories include: Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service; Google’s AI Inbox could be a glimpse of Gmail’s future; Google announces a new protocol to facilitate commerce using AI agents.
+
+## Top Stories
+
+### [Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service](https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/)
+*TechCrunch AI*
+
+Motional says it will launch a driverless robotaxi service in Las Vegas before the end of 2026.
+
+### [Google’s AI Inbox could be a glimpse of Gmail’s future](https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on)
+*The Verge AI*
+
+This week, Google announced a new AI Inbox view for Gmail that replaces the traditional list of emails with an AI-generated list of to-dos and topics to track based on what's in your inbox. It's not widely available yet, but I have access, and in the few hours I've spent messing around with it, I [&
+
+### [Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/)
+*TechCrunch AI*
+
+Google said that merchants can now offer discounts to users directly in AI mode results
+
+## Research Corner
+
+| Paper | Source |
+|-------|--------|
+| [Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring](https://arxiv.org/abs/2601.05256) | arXiv AI |
+| [Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive a...](https://arxiv.org/abs/2601.05298) | arXiv AI |
+| [Effects of personality steering on cooperative behavior in Large Language Mod...](https://arxiv.org/abs/2601.05302) | arXiv AI |
+| [Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-En...](https://arxiv.org/abs/2601.05330) | arXiv AI |
+| [The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Langua...](https://arxiv.org/abs/2601.05376) | arXiv AI |
+| [Conformity and Social Impact on AI Agents](https://arxiv.org/abs/2601.05384) | arXiv AI |
+| [On the Effect of Cheating in Chess](https://arxiv.org/abs/2601.05386) | arXiv AI |
+| [ART: Adaptive Reasoning Trees for Explainable Claim Verification](https://arxiv.org/abs/2601.05455) | arXiv AI |
+| [PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-...](https://arxiv.org/abs/2601.05465) | arXiv AI |
+| [MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urb...](https://arxiv.org/abs/2601.05483) | arXiv AI |
+
+## News & Analysis
+
+- [Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews) *(The Verge AI)*
+- [Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/) *(TechCrunch AI)*
+- [Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes](https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/) *(TechCrunch AI)*
+- [OpenAI is reportedly asking contractors to upload real work from past jobs](https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/) *(TechCrunch AI)*
+
+## Deep Dive: Today's AI Landscape
+
+*Synthesized from multiple research sources*
+
+Based on the latest AI developments from early January 2026, several major breakthroughs and launches have been announced across robotics, autonomous driving, and specialized AI models.
+
+## Physical AI and Robotics
+
+**Boston Dynamics' Atlas humanoid robot** began its first field test at Hyundai's manufacturing plant near Savannah, Georgia on January 4, 2026.[2] This marks a significant milestone in bringing humanoid robots to real-world factory operations.
+
+**Sources:**
+- [aiapps.com](https://www.aiapps.com/blog/ai-news-january-2026-breakthroughs-launches-trends/)
+- [amiko.consulting](https://amiko.consulting/en/the-january-2026-ai-revolution-7-key-trends-changing-the-future-of-manufacturing/)
+- [crescendo.ai](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+- [infoworld.com](https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html)
+- [youtube.com](https://www.youtube.com/watch?v=_y6GP23mK7A)
+
+The WebSearch tool requires permission to be granted. Once you approve WebSearch access, I can research today's AI news.
+
+🗣️ Kai: Need WebSearch permission to fetch today's AI news.
+
+---
+
+*This newsletter is automatically generated by [PAI](https://github.com/robdtaylor/pai) using RSS aggregation and AI research tools. Sources include arXiv, HuggingFace, OpenAI, Google AI, MIT News, VentureBeat, and more.*
+
+*Have feedback? Reply to this post or reach out on [X/Twitter](https://twitter.com/robdtaylor).*
