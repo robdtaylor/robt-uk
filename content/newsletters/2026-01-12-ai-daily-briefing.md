@@ -1,5 +1,5 @@
 ---
-title: "AI Daily Briefing: Motional puts AI at center of robotaxi reboot as i..."
+title: "AI Daily Briefing: Daily AI Roundup"
 date: 2026-01-12
 draft: false
 description: "Your daily digest of AI news, research breakthroughs, and industry updates for Monday, January 12, 2026"
@@ -10,63 +10,52 @@ tags: ["AI", "Machine Learning", "Newsletter", "Daily Briefing"]
 
 ## TL;DR
 
-Today's briefing covers **344 items** from 13 sources. Top stories include: Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service; Google’s AI Inbox could be a glimpse of Gmail’s future; Google announces a new protocol to facilitate commerce using AI agents.
-
-## Top Stories
-
-### [Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service](https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/)
-*TechCrunch AI*
-
-Motional says it will launch a driverless robotaxi service in Las Vegas before the end of 2026.
-
-### [Google’s AI Inbox could be a glimpse of Gmail’s future](https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on)
-*The Verge AI*
-
-This week, Google announced a new AI Inbox view for Gmail that replaces the traditional list of emails with an AI-generated list of to-dos and topics to track based on what's in your inbox. It's not widely available yet, but I have access, and in the few hours I've spent messing around with it, I [&
-
-### [Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/)
-*TechCrunch AI*
-
-Google said that merchants can now offer discounts to users directly in AI mode results
+Today's briefing covers **327 items** from 13 sources. 
 
 ## Research Corner
 
 | Paper | Source |
 |-------|--------|
-| [Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring](https://arxiv.org/abs/2601.05256) | arXiv AI |
-| [Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive a...](https://arxiv.org/abs/2601.05298) | arXiv AI |
-| [Effects of personality steering on cooperative behavior in Large Language Mod...](https://arxiv.org/abs/2601.05302) | arXiv AI |
-| [Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-En...](https://arxiv.org/abs/2601.05330) | arXiv AI |
-| [The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Langua...](https://arxiv.org/abs/2601.05376) | arXiv AI |
-| [Conformity and Social Impact on AI Agents](https://arxiv.org/abs/2601.05384) | arXiv AI |
-| [On the Effect of Cheating in Chess](https://arxiv.org/abs/2601.05386) | arXiv AI |
-| [ART: Adaptive Reasoning Trees for Explainable Claim Verification](https://arxiv.org/abs/2601.05455) | arXiv AI |
-| [PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-...](https://arxiv.org/abs/2601.05465) | arXiv AI |
-| [MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urb...](https://arxiv.org/abs/2601.05483) | arXiv AI |
-
-## News & Analysis
-
-- [Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews) *(The Verge AI)*
-- [Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/) *(TechCrunch AI)*
-- [Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes](https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/) *(TechCrunch AI)*
-- [OpenAI is reportedly asking contractors to upload real work from past jobs](https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/) *(TechCrunch AI)*
+| [The Evaluation Gap in Medicine, AI and LLMs: Navigating Elusive Ground Truth ...](https://arxiv.org/abs/2601.05500) | arXiv AI |
+| [Explainable AI: Learning from the Learners](https://arxiv.org/abs/2601.05525) | arXiv AI |
+| [Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making](https://arxiv.org/abs/2601.05529) | arXiv AI |
+| [WildSci: Advancing Scientific Reasoning from In-the-Wild Literature](https://arxiv.org/abs/2601.05567) | arXiv AI |
+| [Crisis-Bench: Benchmarking Strategic Ambiguity and Reputation Management in L...](https://arxiv.org/abs/2601.05570) | arXiv AI |
+| [Reinforcement Learning of Large Language Models for Interpretable Credit Card...](https://arxiv.org/abs/2601.05578) | arXiv AI |
+| [A Causal Information-Flow Framework for Unbiased Learning-to-Rank](https://arxiv.org/abs/2601.05590) | arXiv AI |
+| [Cumulative Path-Level Semantic Reasoning for Inductive Knowledge Graph Comple...](https://arxiv.org/abs/2601.05629) | arXiv AI |
+| [GenCtrl -- A Formal Controllability Toolkit for Generative Models](https://arxiv.org/abs/2601.05637) | arXiv AI |
+| [HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive ...](https://arxiv.org/abs/2601.05656) | arXiv AI |
 
 ## Deep Dive: Today's AI Landscape
 
 *Synthesized from multiple research sources*
 
-Based on the latest AI developments from early January 2026, several major breakthroughs and launches have been announced across robotics, autonomous driving, and specialized AI models.
+**Key AI announcements on January 12, 2026, focus on recent breakthroughs in compact models, physical AI for robotics and autonomous driving, and agentic systems, with major reveals from NVIDIA, TII, and robotics firms at CES 2026 earlier this month.**[1][2]
 
-## Physical AI and Robotics
-
-**Boston Dynamics' Atlas humanoid robot** began its first field test at Hyundai's manufacturing plant near Savannah, Georgia on January 4, 2026.[2] This marks a significant milestone in bringing humanoid robots to real-world factory operations.
+### Major Breakthroughs and Launches
+- **Falcon-H1R 7B by Technology Innovation Institute (TII)**: Unveiled in January 2026, this 7-billion-parameter model uses a Transformer-Mamba hybrid architecture to match the performance of systems up to 7x larger, emphasizing speed, memory efficiency, and features like DeepConf for reliable inferences. Ideal for edge AI in manufacturing, robots, and autonomous vehicles.[1][2]
+- **NVIDIA's Physical AI Platforms (Alpamayo and Nemotron Speech ASR)**: Announced at CES 2026 on January 5, NVIDIA decla
 
 **Sources:**
 - [aiapps.com](https://www.aiapps.com/blog/ai-news-january-2026-breakthroughs-launches-trends/)
 - [amiko.consulting](https://amiko.consulting/en/the-january-2026-ai-revolution-7-key-trends-changing-the-future-of-manufacturing/)
+- [cgspam.org](https://www.cgspam.org/daily-digest-on-ai-and-emerging-technologies-9-january-2026/)
 - [crescendo.ai](https://www.crescendo.ai/news/latest-ai-news-and-updates)
 - [infoworld.com](https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html)
-- [youtube.com](https://www.youtube.com/watch?v=_y6GP23mK7A)
+
+Here's a summary of AI news announcements from January 12, 2026, focusing on breakthroughs and launches:
+
+**XPENG:**
+
+*   XPENG is starting 2026 with a focus on becoming an AI-driven global technology leader.
+
+**Sources:**
+- [vertexaisearch.cloud.google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVCz67ba_dESTLuWHxRbgF3J8kAtwxaxL5SOZoRrucqf235PVf85qoy9bsyCce4VBE3Jw9q2B_NNHva6wo7_vrI8hzDHm5s-gbBoeonXzjtJQ7g7L05cJI-jDETWJceH1_Nabr6Nhd8y0GMIfOGTlKg3A4RKJRpEK_JyS0NJIN3p2JwIcJCit8fPjxHOQEgLMR4b4eBbGrmDEOGElkEPixSBzJVOjuQIntpcxBUok9cRq2AiHAbch-K1B4XpkXLDZ9Clii_k107zv3vQgQypYGuyi2sxuUXEOY7An3HnFLDB7EdnsNRgClFA==)
+- [vertexaisearch.cloud.google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYRsOu6he_r1-96TBsinwWz9rZs-M9xLxuYflbzbhx_F3CU5tRxL_X6aMGcLdJcQ7rO8zZZiQHeDxEZXdMvaul2LbOh07lnlxA2xeDN1S4nsZsdsXFdIlwCwyCG1VIqZfnVZ4E7ulZRBT2cWDAWyDDLLSMChO3o0V8zIl4_8MfD4jm-IlcQy3hK9pOyvYS6gOQ6TJ40KMKKeoJcpSFTA7CM7QICzpLdWeUjFG1lGNzg26OuiY=)
+- [vertexaisearch.cloud.google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd6XldCSU-cAlCm-7GzFHpdbXafx0AlMguLCRoVOE75p7E82ASD9AVeLVrwhm-bS6WpOsJadpH-QGeIu2-rUCX1HE457LEIJScMjaFGiUHVsS5PofA3tolzTqyjlJEXxEDdR0I2RwxmL2r0fZq3mQeQtbbQXjihgFgptm3OO-2ygWdyYE5HVARK2s=)
+- [vertexaisearch.cloud.google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ1JUyPuKnSgWgmz1grWwkvnmryBnUGRBgbowPe4DMVrJAtS1V7DMhSRGk2ItE1LT5--Q7CzaxEJ3KEIu4gEJ0lUcAkQxp0FoALeQwAdHIHoZ82iYbzekMC3vbA9Q2RN0FZ65dXUU8wI3SZW3yKFnFhS4_)
+- [vertexaisearch.cloud.google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM2qi7YKq2Js4S64Psqj1SRwz2as5VSC0kBwKmw44gFlrL8yS5bKW9FfWPt7GHto8VL50UvOnBHlKhwBA1Hg9_g7oSkRkrWylJK7RLyrVikPfyRR01le_a7KX0uhLhsl6tsb7DXT1FylAPgNBEYN4MCV1-e8jYk__xC21VasZyJuJE03QjRbp8s6hWUGcceXT6QzhdL0pr80nadnPtVRPJADJAcmoqD5CfFI6cAiTkC8U=)
 
 ---
 
