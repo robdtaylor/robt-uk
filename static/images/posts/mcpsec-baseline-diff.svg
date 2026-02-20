@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="stepGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a2a4a"/>
+      <stop offset="100%" stop-color="#1e1e3a"/>
+    </linearGradient>
+    <linearGradient id="arrowGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a90d9"/>
+      <stop offset="100%" stop-color="#357abd"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2ecc71"/>
+      <stop offset="100%" stop-color="#27ae60"/>
+    </linearGradient>
+    <filter id="glow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <marker id="arrowHead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#4a90d9"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGrad2)"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.03" stroke="#4a90d9" stroke-width="0.5">
+    <line x1="0" y1="50" x2="800" y2="50"/><line x1="0" y1="100" x2="800" y2="100"/>
+    <line x1="0" y1="150" x2="800" y2="150"/><line x1="0" y1="200" x2="800" y2="200"/>
+    <line x1="0" y1="250" x2="800" y2="250"/><line x1="0" y1="300" x2="800" y2="300"/>
+    <line x1="0" y1="350" x2="800" y2="350"/>
+    <line x1="100" y1="0" x2="100" y2="400"/><line x1="200" y1="0" x2="200" y2="400"/>
+    <line x1="300" y1="0" x2="300" y2="400"/><line x1="400" y1="0" x2="400" y2="400"/>
+    <line x1="500" y1="0" x2="500" y2="400"/><line x1="600" y1="0" x2="600" y2="400"/>
+    <line x1="700" y1="0" x2="700" y2="400"/>
+  </g>
+
+  <!-- Title -->
+  <text x="400" y="28" text-anchor="middle" fill="#e0e0e0" font-size="15" font-weight="600" letter-spacing="0.5">Baseline / Diff Workflow</text>
+  <text x="400" y="44" text-anchor="middle" fill="#666" font-size="9" letter-spacing="2">TRACK SECURITY IMPROVEMENTS OVER TIME</text>
+
+  <!-- ===== TOP ROW: Steps 1-4 flow ===== -->
+
+  <!-- Step 1: Initial Scan -->
+  <g transform="translate(80, 90)">
+    <rect x="0" y="0" width="130" height="55" rx="6" fill="url(#stepGrad)" stroke="#4a90d9" stroke-width="1"/>
+    <text x="65" y="15" text-anchor="middle" fill="#4a90d9" font-size="8" font-weight="600" letter-spacing="1">STEP 1</text>
+    <text x="65" y="32" text-anchor="middle" fill="#e0e0e0" font-size="11" font-weight="500">Initial Scan</text>
+    <text x="65" y="46" text-anchor="middle" fill="#888" font-size="8" font-family="'SF Mono', 'Fira Code', monospace">mcpsec scan</text>
+  </g>
+
+  <!-- Arrow 1->2 -->
+  <line x1="215" y1="117" x2="255" y2="117" stroke="#4a90d9" stroke-width="1.5" marker-end="url(#arrowHead)"/>
+
+  <!-- Step 2: Baseline File -->
+  <g transform="translate(260, 90)">
+    <rect x="0" y="0" width="130" height="55" rx="6" fill="url(#stepGrad)" stroke="#f39c12" stroke-width="1"/>
+    <text x="65" y="15" text-anchor="middle" fill="#f39c12" font-size="8" font-weight="600" letter-spacing="1">PRODUCES</text>
+    <text x="65" y="32" text-anchor="middle" fill="#e0e0e0" font-size="10" font-weight="500">Baseline File</text>
+    <text x="65" y="46" text-anchor="middle" fill="#f39c12" font-size="8" font-family="'SF Mono', 'Fira Code', monospace">Score: 42/100</text>
+  </g>
+
+  <!-- Arrow 2->3 -->
+  <line x1="395" y1="117" x2="435" y2="117" stroke="#4a90d9" stroke-width="1.5" marker-end="url(#arrowHead)"/>
+
+  <!-- Step 3: Fix Issues -->
+  <g transform="translate(440, 90)">
+    <rect x="0" y="0" width="130" height="55" rx="6" fill="url(#stepGrad)" stroke="#2ecc71" stroke-width="1"/>
+    <text x="65" y="15" text-anchor="middle" fill="#2ecc71" font-size="8" font-weight="600" letter-spacing="1">STEP 2</text>
+    <text x="65" y="32" text-anchor="middle" fill="#e0e0e0" font-size="11" font-weight="500">Fix Issues</text>
+    <text x="65" y="46" text-anchor="middle" fill="#888" font-size="8">Developer remediates</text>
+  </g>
+
+  <!-- Arrow 3->4 -->
+  <line x1="575" y1="117" x2="615" y2="117" stroke="#4a90d9" stroke-width="1.5" marker-end="url(#arrowHead)"/>
+
+  <!-- Step 4: Re-scan -->
+  <g transform="translate(620, 90)">
+    <rect x="0" y="0" width="130" height="55" rx="6" fill="url(#stepGrad)" stroke="#4a90d9" stroke-width="1"/>
+    <text x="65" y="15" text-anchor="middle" fill="#4a90d9" font-size="8" font-weight="600" letter-spacing="1">STEP 3</text>
+    <text x="65" y="32" text-anchor="middle" fill="#e0e0e0" font-size="11" font-weight="500">Re-scan</text>
+    <text x="65" y="46" text-anchor="middle" fill="#888" font-size="7" font-family="'SF Mono', 'Fira Code', monospace">mcpsec scan --baseline</text>
+  </g>
+
+  <!-- ===== BOTTOM: Terminal-style diff report ===== -->
+  <!-- Arrow from step 4 down to report -->
+  <line x1="685" y1="150" x2="685" y2="168" stroke="#4a90d9" stroke-width="1.5" marker-end="url(#arrowHead)"/>
+
+  <!-- Terminal window -->
+  <g transform="translate(80, 175)">
+    <!-- Terminal chrome -->
+    <rect x="0" y="0" width="670" height="195" rx="8" fill="#0d1117" stroke="#333" stroke-width="1"/>
+    <!-- Title bar -->
+    <rect x="0" y="0" width="670" height="24" rx="8" fill="#1c2333"/>
+    <rect x="0" y="16" width="670" height="8" fill="#1c2333"/>
+    <!-- Traffic lights -->
+    <circle cx="16" cy="12" r="5" fill="#ff5f57"/>
+    <circle cx="34" cy="12" r="5" fill="#febc2e"/>
+    <circle cx="52" cy="12" r="5" fill="#28c840"/>
+    <!-- Title -->
+    <text x="335" y="16" text-anchor="middle" fill="#666" font-size="10" font-family="'SF Mono', 'Fira Code', monospace">Diff Report</text>
+
+    <!-- Terminal content -->
+    <g font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="11">
+      <!-- Baseline comparison header -->
+      <text x="20" y="48" fill="#4a90d9">$</text>
+      <text x="32" y="48" fill="#aaa">mcpsec scan --baseline .mcpsec-baseline.json</text>
+
+      <text x="20" y="70" fill="#666">Comparing against baseline from 2025-01-15...</text>
+
+      <!-- Separator -->
+      <text x="20" y="90" fill="#333">--------------------------------------------</text>
+
+      <!-- Fixed items -->
+      <text x="20" y="110" fill="#2ecc71" font-weight="600">FIXED</text>
+      <text x="70" y="110" fill="#2ecc71">&#x2713;</text>
+      <text x="86" y="110" fill="#888">credential-exposure: API key in env config</text>
+      <text x="70" y="128" fill="#2ecc71">&#x2713;</text>
+      <text x="86" y="128" fill="#888">tool-poisoning: Hidden prompt in read_file</text>
+
+      <!-- New items -->
+      <text x="20" y="152" fill="#e74c3c" font-weight="600">NEW</text>
+      <text x="70" y="152" fill="#e74c3c">&#x2717;</text>
+      <text x="86" y="152" fill="#888">ssrf-risk: Fetch server allows localhost</text>
+
+      <!-- Separator -->
+      <text x="20" y="172" fill="#333">--------------------------------------------</text>
+
+      <!-- Score line -->
+      <text x="20" y="190" fill="#888">Score:</text>
+      <text x="75" y="190" fill="#e74c3c">42</text>
+      <text x="95" y="190" fill="#555">-></text>
+      <text x="118" y="190" fill="#2ecc71" font-weight="600">67</text>
+      <text x="145" y="190" fill="#2ecc71">(+25)</text>
+      <text x="210" y="190" fill="#555">|</text>
+      <text x="225" y="190" fill="#2ecc71">2 fixed</text>
+      <text x="295" y="190" fill="#555">|</text>
+      <text x="310" y="190" fill="#e74c3c">1 new</text>
+      <text x="368" y="190" fill="#555">|</text>
+      <text x="383" y="190" fill="#888">4 remaining</text>
+    </g>
+  </g>
+
+  <!-- Score improvement visual -->
+  <g transform="translate(80, 380)">
+    <!-- Progress bar background -->
+    <rect x="0" y="0" width="300" height="6" rx="3" fill="#1e1e3a"/>
+    <!-- Old score (42%) -->
+    <rect x="0" y="0" width="126" height="6" rx="3" fill="#e74c3c" opacity="0.3"/>
+    <!-- New score (67%) -->
+    <rect x="0" y="0" width="201" height="6" rx="3" fill="#2ecc71" opacity="0.6"/>
+    <!-- Labels -->
+    <text x="126" y="-4" text-anchor="middle" fill="#e74c3c" font-size="8" opacity="0.6">42</text>
+    <text x="201" y="-4" text-anchor="middle" fill="#2ecc71" font-size="8" font-weight="600">67</text>
+    <text x="310" y="5" fill="#555" font-size="8">/100</text>
+  </g>
+
+  <!-- Filename label -->
+  <g transform="translate(260, 160)">
+    <rect x="0" y="0" width="160" height="16" rx="3" fill="#1e1e3a" stroke="#333" stroke-width="0.5"/>
+    <text x="80" y="11" text-anchor="middle" fill="#f39c12" font-size="7.5" font-family="'SF Mono', 'Fira Code', monospace">.mcpsec-baseline.json</text>
+  </g>
+</svg>
