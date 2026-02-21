@@ -2,68 +2,103 @@
 title: "Subscribe"
 description: "Choose your newsletters. No spam, no hype, unsubscribe anytime."
 layout: "single"
+ShowReadingTime: false
+ShowWordCount: false
 ---
 
 <style>
+/* Hide post meta (reading time, author) on this page */
+.post-single .post-meta { display: none; }
+
 .nl-container { max-width: 640px; }
-.nl-card {
+
+/* Cards - use .post-content prefix to beat PaperMod specificity */
+.post-content .nl-card {
+    display: block;
     border: 1px solid var(--border);
     border-radius: 8px;
     padding: 1.25rem;
     margin-bottom: 1rem;
     position: relative;
     cursor: pointer;
-    transition: border-color 0.15s;
+    transition: border-color 0.15s, background 0.15s;
 }
-.nl-card:hover { border-color: var(--primary, #58a6ff); }
-.nl-card.selected { border-color: var(--primary, #58a6ff); background: rgba(88, 166, 255, 0.05); }
-.nl-card input[type="checkbox"] {
+.post-content .nl-card:hover { border-color: #58a6ff; }
+.post-content .nl-card.selected { border-color: #58a6ff; background: rgba(88, 166, 255, 0.06); }
+
+.post-content .nl-card input[type="checkbox"] {
     position: absolute;
     top: 1.25rem;
     right: 1.25rem;
     width: 18px;
     height: 18px;
-    accent-color: var(--primary, #58a6ff);
+    accent-color: #58a6ff;
     cursor: pointer;
 }
-.nl-card h3 { margin: 0 0 0.25rem 0; font-size: 1.1rem; }
-.nl-badge {
+
+/* Override PaperMod's .post-content h3 (24px, margin: 24px 0 16px) */
+.post-content .nl-card h3 {
+    margin: 0 0 0.25rem 0 !important;
+    font-size: 1.1rem !important;
+    padding: 0;
+}
+
+.post-content .nl-badge {
     display: inline-block;
     font-size: 0.75rem;
     padding: 0.15rem 0.5rem;
     border-radius: 3px;
     background: rgba(88, 166, 255, 0.15);
-    color: var(--primary, #58a6ff);
+    color: #58a6ff;
     margin-bottom: 0.5rem;
     font-weight: 500;
 }
-.nl-card p { margin: 0; font-size: 0.9rem; opacity: 0.85; }
-.nl-card ul { margin: 0.5rem 0 0 0; padding-left: 1.25rem; font-size: 0.85rem; opacity: 0.75; }
-.nl-card ul li { margin-bottom: 0.2rem; }
+
+/* Override PaperMod's .post-content p (margin-bottom: 20px) */
+.post-content .nl-card p {
+    margin: 0 !important;
+    font-size: 0.9rem;
+    opacity: 0.85;
+}
+
+/* Override PaperMod's .post-content ul (margin-bottom: 20px) */
+.post-content .nl-card ul {
+    margin: 0.5rem 0 0 0 !important;
+    padding-left: 1.25rem !important;
+    font-size: 0.85rem;
+    opacity: 0.75;
+}
+.post-content .nl-card ul li {
+    margin: 0 0 0.2rem 0 !important;
+}
+
+/* Form */
 .nl-form { margin-top: 1.5rem; }
 .nl-form-row { display: flex; gap: 0.5rem; max-width: 480px; }
-.nl-form input[type="email"] {
+.post-content .nl-form input[type="email"] {
     flex: 1;
     padding: 0.6rem 0.8rem;
     border: 1px solid var(--border);
     border-radius: 4px;
-    background: var(--code-bg, #1e1e2e);
-    color: var(--primary, #cdd6f4);
+    background: var(--entry);
+    color: var(--content);
     font-size: 1rem;
 }
-.nl-form button {
+.post-content .nl-form button {
     padding: 0.6rem 1.2rem;
-    background: var(--primary, #58a6ff);
-    color: var(--theme, #1e1e2e);
+    background: #58a6ff;
+    color: #fff;
     border: none;
     border-radius: 4px;
     font-size: 1rem;
     cursor: pointer;
     font-weight: 500;
+    white-space: nowrap;
 }
-.nl-form button:disabled { opacity: 0.6; cursor: not-allowed; }
-#form-message { margin-top: 0.5rem; font-size: 0.875rem; min-height: 1.25rem; }
-#selection-hint { font-size: 0.85rem; opacity: 0.6; margin-top: 0.5rem; }
+.post-content .nl-form button:hover { background: #4393e6; }
+.post-content .nl-form button:disabled { opacity: 0.6; cursor: not-allowed; }
+.post-content #form-message { margin-top: 0.5rem; font-size: 0.875rem; min-height: 1.25rem; }
+.post-content #selection-hint { font-size: 0.85rem; opacity: 0.6; margin-top: 0.5rem; }
 </style>
 
 <div class="nl-container">
