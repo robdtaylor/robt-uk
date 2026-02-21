@@ -9,4 +9,5 @@ I write about artificial intelligence, emerging technology, and their implicatio
 
 ## Contact
 
-You can find me on [GitHub](https://github.com/robdtaylor).
+- Email: [hello@robt.uk](mailto:hello@robt.uk)
+- GitHub: [robdtaylor](https://github.com/robdtaylor)

@@ -38,6 +38,10 @@ enableEmoji = true
 
   # Social icons on home page
   [[params.socialIcons]]
+    name = "email"
+    url = "mailto:hello@robt.uk"
+
+  [[params.socialIcons]]
     name = "github"
     url = "https://github.com/robdtaylor"
 
