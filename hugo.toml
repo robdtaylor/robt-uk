@@ -59,6 +59,12 @@ enableEmoji = true
   weight = 15
 
 [[menu.main]]
+  identifier = "subscribe"
+  name = "Subscribe"
+  url = "/newsletter/"
+  weight = 25
+
+[[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
