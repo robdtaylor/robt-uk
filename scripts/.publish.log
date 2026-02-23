@@ -1,0 +1,19 @@
+[2026-02-21 15:18:39] No new editions to publish
+[2026-02-21 15:18:53] DRY RUN: Would publish edition #004 → /Users/robt/Projects/robt-uk/content/the-agent-stack/2026-02-21-testing-the-auto-publish-pipeline.md
+[2026-02-21 15:18:53] DRY RUN complete. 1 edition(s) would be published.
+[2026-02-21 15:18:58] Published edition #004: 2026-02-21-testing-the-auto-publish-pipeline.md
+[2026-02-21 15:18:58] Building Hugo site...
+[2026-02-21 15:18:59] Hugo build complete
+[2026-02-21 15:18:59] Deploying to Cloudflare Pages...
+✨ Compiled Worker successfully
+Uploading... (182/195)
+Uploading... (186/195)
+Uploading... (190/195)
+Uploading... (195/195)
+✨ Success! Uploaded 13 files (182 already uploaded) (1.27 sec)
+
+✨ Uploading Functions bundle
+🌎 Deploying...
+✨ Deployment complete! Take a peek over at https://a8a2068b.robt-uk.pages.dev
+[2026-02-21 15:19:15] Done. Published 1 new edition(s) to robt.uk
+[2026-02-21 15:20:25] No new editions to publish

@@ -57,6 +57,12 @@ enableEmoji = true
   weight = 10
 
 [[menu.main]]
+  identifier = "the-agent-stack"
+  name = "The Agent Stack"
+  url = "/the-agent-stack/"
+  weight = 12
+
+[[menu.main]]
   identifier = "newsletters"
   name = "AI Newsletters"
   url = "/newsletters/"
