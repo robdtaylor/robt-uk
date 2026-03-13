@@ -42,6 +42,10 @@ enableEmoji = true
     url = "mailto:hello@robt.uk"
 
   [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/Tayloredsystem"
+
+  [[params.socialIcons]]
     name = "github"
     url = "https://github.com/robdtaylor"
 
