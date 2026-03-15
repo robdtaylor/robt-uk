@@ -1,0 +1,72 @@
+---
+title: "AI Daily Briefing: US Army announces contract with Anduril worth up t..."
+date: 2026-03-15
+draft: false
+description: "Your daily digest of AI news, research breakthroughs, and industry updates for Sunday, March 15, 2026"
+tags: ["AI", "Machine Learning", "Newsletter", "Daily Briefing"]
+---
+
+*Sunday, March 15, 2026*
+
+## TL;DR
+
+Today's briefing covers **7 items** from 13 sources. Top stories include: US Army announces contract with Anduril worth up to $20B; How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others.
+
+## Top Stories
+
+### [US Army announces contract with Anduril worth up to $20B](https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/)
+*TechCrunch AI*
+
+The Army described this as a single enterprise contract consolidating more than 120 separate "procurement actions."
+
+### [How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/)
+*TechCrunch AI*
+
+Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.
+
+## Industry Updates
+
+- **[Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline](https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval)** - HuggingFace
+
+## News & Analysis
+
+- [Meta reportedly considering layoffs that could affect 20% of the company](https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/) *(TechCrunch AI)*
+- ['Not built right the first time' - Musk's xAI is starting over again, again](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/) *(TechCrunch AI)*
+- [Google's AI Search Results Love to Refer You Back to Google](https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/) *(Wired AI)*
+- [Gamers’ Worst Nightmares About AI Are Coming True](https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/) *(Wired AI)*
+
+## Deep Dive: Today's AI Landscape
+
+*Synthesized from multiple research sources*
+
+**Key AI breakthroughs and launches around March 15, 2026, center on advanced frontier models, efficient hardware, enterprise agents, and multimodal tools from OpenAI, Google, NVIDIA, Microsoft, and others.[1][2][3]**
+
+### Major Model Releases
+- **OpenAI's GPT-5.4** (March 5, 2026): A reasoning-optimized frontier model with enhanced step-by-step thinking, coding, cost efficiency (up to 10× lower cost per token), and a massive context window; integrates into ChatGPT, API, Excel, and features interactive visual explanations for math/science (e.g., compound interest, Ohm's law).[1][2][3][4][6]
+- **Google DeepMind's Gemini 3.1 Flash-Lite** (March 3–4, 2026): Faster, cheaper model for developer workloads; "Deep Think" variant solved open math problems and scored 90% on IMO-ProofBench.[1][2]
+
+**Sources:**
+- [devflokers.com](https://www.devflokers.com/blog/ai-breakthroughs-march-2026)
+- [champaignmagazine.com](https://champaignmagazine.com/2026/03/08/ai-by-ai-weekly-top-5-march-2-8-2026/)
+- [marketingprofs.com](https://www.marketingprofs.com/opinions/2026/54427/ai-update-march-13-2026-ai-news-and-views-from-the-past-week)
+- [marketingprofs.com](https://www.marketingprofs.com/opinions/2026/54379/ai-update-march-6-2026-ai-news-and-views-from-the-past-week)
+- [blog.mean.ceo](https://blog.mean.ceo/ai-automation-trends-march-2026/)
+
+**In March 2026, AI startup funding hit record highs, with OpenAI raising $110 billion at a $730 billion pre-money valuation backed by Amazon, SoftBank, and Nvidia, alongside deals for Trace ($3M seed), Plaid ($8B post-money valuation), Code Metal ($125M), and Foodforecast (€8M).[1] Earlier in 2026, particularly February, massive rounds included Anthropic's $30 billion Series G at $380 billion post-money valuation, Cerebras Systems' $1 billion Series H at $23 billion valuation, and MatX's $500 million Series B.[2][5][6]**
+
+### Key Funding Deals Up to March 2026
+AI investments concentrated on infrastructure, models, chips, and applications, with February alone seeing $171 billion in AI funding (90% of global venture total of $189 billion).[5] Here's a breakdown of standout rounds:
+
+
+**Sources:**
+- [blog.mean.ceo](https://blog.mean.ceo/ai-startup-funding-news-march-2026/)
+- [intellizence.com](https://intellizence.com/insights/startup-funding/startup-funding-trends-february-2026-ai-infrastructure-and-robotics/)
+- [aifundingtracker.com](https://aifundingtracker.com/ai-startup-funding-news-today/)
+- [techbuzz.ai](https://www.techbuzz.ai/articles/17-us-ai-companies-raise-100m-in-2026-three-cross-1b)
+- [news.crunchbase.com](https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/)
+
+---
+
+*This newsletter is automatically generated by [PAI](https://github.com/robdtaylor/pai) using RSS aggregation and AI research tools. Sources include arXiv, HuggingFace, OpenAI, Google AI, MIT News, VentureBeat, and more.*
+
+*Have feedback? Reply to this post or reach out on [X/Twitter](https://twitter.com/robdtaylor).*
