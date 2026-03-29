@@ -1,0 +1,72 @@
+---
+title: "AI Daily Briefing: Suno leans into customization with v5.5"
+date: 2026-03-29
+draft: false
+description: "Your daily digest of AI news, research breakthroughs, and industry updates for Sunday, March 29, 2026"
+tags: ["AI", "Machine Learning", "Newsletter", "Daily Briefing"]
+---
+
+*Sunday, March 29, 2026*
+
+## TL;DR
+
+Today's briefing covers **9 items** from 13 sources. Top stories include: Suno leans into customization with v5.5; Anthropic's Claude popularity with paying consumers is skyrocketing; Why OpenAI killed Sora.
+
+## Top Stories
+
+### [Suno leans into customization with v5.5](https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model)
+*The Verge AI*
+
+Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the releas
+
+### [Anthropic's Claude popularity with paying consumers is skyrocketing](https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/)
+*TechCrunch AI*
+
+Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.
+
+### [Why OpenAI killed Sora](https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition)
+*The Verge AI*
+
+On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high
+
+### [OpenAI shuts down Sora while Meta gets shut out in court](https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/)
+*TechCrunch AI*
+
+When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the
+
+### [I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often](https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/)
+*Wired AI*
+
+Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.
+
+## News & Analysis
+
+- [Bluesky leans into AI with Attie, an app for building custom feeds](https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/) *(TechCrunch AI)*
+- [Stanford study outlines dangers of asking AI chatbots for personal advice](https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/) *(TechCrunch AI)*
+- [Elon Musk’s last co-founder reportedly leaves xAI](https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/) *(TechCrunch AI)*
+- [Why can’t TikTok identify AI generated ads when I can?](https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure) *(The Verge AI)*
+
+## Deep Dive: Today's AI Landscape
+
+*Synthesized from multiple research sources*
+
+Based on the latest search results available, here are the major AI announcements and breakthroughs from March 2026:
+
+## Model Releases and Performance Advances
+
+**OpenAI's GPT-5.4 "Thinking" Model** represents a significant leap in reasoning capabilities, scoring 83.0% on the GDPVal benchmark—placing it at or above human expert levels on economically valuable tasks[2]. The model emphasizes improved step-by-step reasoning, coding capability, and cost efficiency[7]. Google countered with **Gemini 3.1 Flash-Lite** for cost-efficient developer workloads and a "Deep Think" variant that autonomously solved four open math problems and scored 90% on the IMO-ProofBench Advanced[7].
+
+**Sources:**
+- [switas.com](https://www.switas.com/articles/the-agentic-shift-7-ai-breakthroughs-redefining-march-2026)
+- [fortune.com](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/)
+- [radicaldatascience.wordpress.com](https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/)
+- [youtube.com](https://www.youtube.com/watch?v=-PdUb668I4E)
+- [coaio.com](https://coaio.com/news/2026/03/breaking-tech-news-on-march-27-2026-ai-breakthroughs-hardware-2kkc/)
+
+Alternatively, I can use the **Research skill** which runs parallel searches via Perplexity, Gemini, and Claude — it would cover this query well. Want me to invoke that instead?
+
+---
+
+*This newsletter is automatically generated by [PAI](https://github.com/robdtaylor/pai) using RSS aggregation and AI research tools. Sources include arXiv, HuggingFace, OpenAI, Google AI, MIT News, VentureBeat, and more.*
+
+*Have feedback? Reply to this post or reach out on [X/Twitter](https://twitter.com/robdtaylor).*
