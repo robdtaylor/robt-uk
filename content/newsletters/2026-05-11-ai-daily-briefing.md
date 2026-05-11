@@ -1,0 +1,82 @@
+---
+title: "AI Daily Briefing: Anthropic says ‘evil’ portrayals of AI were respon..."
+date: 2026-05-11
+draft: false
+description: "Your daily digest of AI news, research breakthroughs, and industry updates for Monday, May 11, 2026"
+tags: ["AI", "Machine Learning", "Newsletter", "Daily Briefing"]
+---
+
+*Monday, May 11, 2026*
+
+## TL;DR
+
+Today's briefing covers **634 items** from 13 sources. Top stories include: Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts.
+
+## Top Stories
+
+### [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
+*TechCrunch AI*
+
+Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.
+
+## Research Corner
+
+| Paper | Source |
+|-------|--------|
+| [GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm...](https://arxiv.org/abs/2605.06671) | arXiv AI |
+| [More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models](https://arxiv.org/abs/2605.06672) | arXiv AI |
+| [Fast and Effective Redistricting Optimization via Composite-Move Tabu Search](https://arxiv.org/abs/2605.06682) | arXiv AI |
+| [State Representation and Termination for Recursive Reasoning Systems](https://arxiv.org/abs/2605.06690) | arXiv AI |
+| [Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Repr...](https://arxiv.org/abs/2605.06696) | arXiv AI |
+| [CASCADE: Case-Based Continual Adaptation for Large Language Models During Dep...](https://arxiv.org/abs/2605.06702) | arXiv AI |
+| [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mec...](https://arxiv.org/abs/2605.06716) | arXiv AI |
+| [When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalizatio...](https://arxiv.org/abs/2605.06723) | arXiv AI |
+| [Weblica: Scalable and Reproducible Training Environments for Visual Web Agents](https://arxiv.org/abs/2605.06761) | arXiv AI |
+| [When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structure...](https://arxiv.org/abs/2605.06772) | arXiv AI |
+
+## Industry Updates
+
+- **[How enterprises are scaling AI](https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai)** - OpenAI
+- **[OpenAI Campus Network: Student club interest form](https://openai.com/index/openai-campus-network-student-club-interest-form)** - OpenAI
+- **[MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck)** - HuggingFace
+
+## News & Analysis
+
+- [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/) *(TechCrunch AI)*
+- [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/) *(TechCrunch AI)*
+
+## Deep Dive: Today's AI Landscape
+
+*Synthesized from multiple research sources*
+
+### Top AI News Announcements & Breakthroughs on May 11, 2026
+
+#### Massive AI Investments Fuel $700B+ Race (YouTube Top 10 Tech News)
+- **Total AI Capex Surge**: Big Tech's AI spending exceeds $700B, highlighted in today's top stories.
+  - **Microsoft**: $110B investment by 2026 (60% YoY increase) to boost AI capabilities.
+
+**Sources:**
+- [youtube.com](https://www.youtube.com/watch?v=CSOjiqI7jaU)
+- [prnewswire.com](https://www.prnewswire.com/apac/news-releases/coremail-launches-ai-native-secure-email-system-for-the-agent-era-302767806.html)
+- [coaio.com](https://coaio.com/news/2026/05/breaking-tech-news-on-may-8-2026-ai-innovations-space-races-and-2pcc/)
+- [prnewswire.com](https://www.prnewswire.com/news-releases/harmonic-introduces-breakthrough-ai-orchestration-service-for-live-video-workflows-302741293.html)
+- [ptechpartners.com](https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/)
+
+### Recent AI Funding Deals (Week of April 30 – May 6, 2026)
+From Dwealth.news tracking, here are the **top 5 VC deals in AI** announced that week:
+
+| Rank | Company | Location | Description | Funding Amount | Round | Valuation |
+|------|---------|----------|-------------|----------------|-------|-----------|
+
+**Sources:**
+- [dwealth.news](https://dwealth.news/2026/05/top-5-vc-deals-of-the-week-in-ai-5-6-26/)
+- [news.crunchbase.com](https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/)
+- [fintechnews.ch](https://fintechnews.ch/aifintech/ai-funding-surges-led-by-frontier-models/83347/)
+- [aifunding.me](https://aifunding.me/deals)
+- [simpler.grants.gov](https://simpler.grants.gov/search)
+
+---
+
+*This newsletter is automatically generated by [PAI](https://github.com/robdtaylor/pai) using RSS aggregation and AI research tools. Sources include arXiv, HuggingFace, OpenAI, Google AI, MIT News, VentureBeat, and more.*
+
+*Have feedback? Reply to this post or reach out on [X/Twitter](https://twitter.com/robdtaylor).*
