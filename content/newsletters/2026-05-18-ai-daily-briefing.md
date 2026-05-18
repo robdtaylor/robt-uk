@@ -1,0 +1,74 @@
+---
+title: "AI Daily Briefing: Daily AI Roundup"
+date: 2026-05-18
+draft: false
+description: "Your daily digest of AI news, research breakthroughs, and industry updates for Monday, May 18, 2026"
+tags: ["AI", "Machine Learning", "Newsletter", "Daily Briefing"]
+---
+
+*Monday, May 18, 2026*
+
+## TL;DR
+
+Today's briefing covers **489 items** from 13 sources. 
+
+## Research Corner
+
+| Paper | Source |
+|-------|--------|
+| [DeepSlide: From Artifacts to Presentation Delivery](https://arxiv.org/abs/2605.15202) | arXiv AI |
+| [SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constr...](https://arxiv.org/abs/2605.15204) | arXiv AI |
+| [Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empiric...](https://arxiv.org/abs/2605.15205) | arXiv AI |
+| [SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces](https://arxiv.org/abs/2605.15215) | arXiv AI |
+| [Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias i...](https://arxiv.org/abs/2605.15217) | arXiv AI |
+| [CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation](https://arxiv.org/abs/2605.15218) | arXiv AI |
+| [NOVA: Fundamental Limits of Knowledge Discovery Through AI](https://arxiv.org/abs/2605.15219) | arXiv AI |
+| [ICRL: Learning to Internalize Self-Critique with Reinforcement Learning](https://arxiv.org/abs/2605.15224) | arXiv AI |
+| [NIMO Controller: a self-driving laboratory orchestrator based on the Model Co...](https://arxiv.org/abs/2605.15227) | arXiv AI |
+| [Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign ...](https://arxiv.org/abs/2605.15228) | arXiv AI |
+
+## News & Analysis
+
+- [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/) *(TechCrunch AI)*
+- [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/) *(TechCrunch AI)*
+- [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats) *(The Verge AI)*
+- [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement) *(The Verge AI)*
+- [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/) *(TechCrunch AI)*
+- [TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/) *(TechCrunch AI)*
+- [Chatbots at the drive-thru are just the beginning](https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys) *(The Verge AI)*
+
+## Deep Dive: Today's AI Landscape
+
+*Synthesized from multiple research sources*
+
+Here are the most relevant **AI news announcements and breakthrough launches around 2026-05-18** from the results you provided:
+
+- **IBM Research breakthrough analog AI chip**  
+  Artificialintelligence-news.com reports IBM Research unveiled a **breakthrough analog AI chip** for efficient deep learning, highlighting a major hardware advance for DNN computation.  
+  Source: [7]
+
+**Sources:**
+- [aicerts.ai](https://www.aicerts.ai/news/future-technology-research-mits-2026-breakthroughs-revealed/)
+- [ptechpartners.com](https://www.ptechpartners.com/2026/04/07/march-2026-ai-news-roundup-breakthroughs-and-the-fights-forecasts-and-fears/)
+- [coaio.com](https://coaio.com/news/2026/05/breaking-tech-news-on-may-8-2026-ai-innovations-space-races-and-2pcc/)
+- [rsipvision.com](https://www.rsipvision.com/news/?page=4%2F)
+- [prnewswire.com](https://www.prnewswire.com/news-releases/zte-showcases-at-gsma-m360-latam-2026-driving-future-business-model-restructuring--ai--network-two-way-integration-302774323.html)
+
+Here are the most relevant AI funding-deal / startup-acquisition style leads from the search results for **2026-05-18**:
+
+## Big AI funding rounds
+- **OpenAI — $122B**  
+  Biggest private funding round in history, from Q1 2026. Focus: expanding compute, chip partnerships, and scaling ChatGPT toward a “superapp.”
+
+**Sources:**
+- [alleywatch.com](https://alleywatch.com/2026/05/us-startup-funding-top-largest-april-2026-vc/)
+- [intellizence.com](https://intellizence.com/insights/startup-funding/top-startup-funding-deals-of-q1-2026-record-297-billion-raised-with-ai-dominating/)
+- [fundup.ai](https://fundup.ai/recently-funded-startups)
+- [economictimes.com](https://economictimes.com/tech/funding/chipmaker-nvidia-in-talks-to-lead-20-million-round-in-gen-ai-startup-simplismart/articleshow/131153601.cms)
+- [fundup.ai](https://fundup.ai/lists/emerging-silicon-valley-ai-startups)
+
+---
+
+*This newsletter is automatically generated by [PAI](https://github.com/robdtaylor/pai) using RSS aggregation and AI research tools. Sources include arXiv, HuggingFace, OpenAI, Google AI, MIT News, VentureBeat, and more.*
+
+*Have feedback? Reply to this post or reach out on [X/Twitter](https://twitter.com/robdtaylor).*
